@@ -4,7 +4,7 @@ if x > 0:
 elif x == 0:
     print("cero")
 else:
-    print("negativo")
+    print("negativoo")
     
 for i in range(3):
     print(f"i={i}")
